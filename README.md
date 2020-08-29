@@ -1,0 +1,5 @@
+# Optimization-of-the-process-parameters-in-end-Milling-of-al-6082-using-taguchi-methodology
+
+Optimization of tool geometry and process parameters in end milling operation. The experiments were conducted on aluminum Al 6082 to reduce the temperature rise and vibration occurring during machining process and optimizing the parameters by using Taguchi’s design of experiments and adequacy model was checked by analysis of variance (ANOVA).
+
+The effects of process parameters for the minimal temperature rise and also reduction in the frequency of vibration is been analyzed in order to improve the surface finish and also to reduce the tool wear which ensures the increased quality of the milling operation. A statistical prediction model was developed in terms of tool geometrical parameters in rake angle and machining parameters such as cutting speed, feed rate, and depth of cut. The temperature was measured by K type thermocouple and the vibration was measured by Kistler 8776 A50 accelerometer and we collected the responses in Dewe 43 data acquisition system.
